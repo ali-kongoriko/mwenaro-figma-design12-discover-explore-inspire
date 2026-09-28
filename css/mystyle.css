@@ -1,0 +1,45 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.5rem 1.5rem;
+  border-radius: 1rem;
+  background-color: #111;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.waves {
+  margin-bottom: 1rem;
+}
+
+.dawn-frame {
+  margin-bottom: 1rem;
+}
+
+.header-right {
+  margin-bottom: 1rem;
+}
